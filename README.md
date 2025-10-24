@@ -25,7 +25,9 @@
 
 ### 2) Architecture & Implementation
 
-- **Overview Diagram**: [![structure](./assets/flow.jpg)]
+- **Overview Diagram**: 
+![structure](./assets/flow.jpg)
+
 - **Key Modules**:
   - Frontend: Swipe trading system/Embedded wallet/Cross-chain transfer integration
   - Backend: Off-chain order matching/Hybrid decentralized exchange model
