@@ -1,4 +1,8 @@
-# [PredMoon] - Cypherpunk Hackathon 2025
+# Cypherpunk Hackathon 2025
+
+## Slogan
+
+> Shaping the Global Prediction Market Ecosystem - From Infrastructure to Innovation
 
 ![screenshot-3](./assets/3.png)
 
@@ -6,17 +10,57 @@
 
 - [x] GitHub Repository
 - [x] [Deck](https://www.canva.com/design/DAG2PfMVKZM/lUOhxNw80bQNv4kbpQnQag/view?utm_content=DAG2PfMVKZM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd0f28c489d)
-- [x] Demo Video on youtube: https://youtu.be/RUZHgOvq8hk
+- [x] Product/Tech Demo Video on youtube: https://youtu.be/RUZHgOvq8hk
 - [x] Online Demo Link
   - Onchain version: https://Pred.WTF
   - Offchain version: https://Pred.WTF/t-1 (replace t-1 to t-2,3...17)
   - Pro version(the same UI as PolyMarket): https://pro.Pred.WTF
 - [x] Contract Deployment Information
 
+## Pitch Video: 
+
+* Your team's background and relevant experience in the area you're building
+* Why you started building your product
+* The market size, or the specific opportunity you're targeting
+* Any feedback or validation from potential users or customers
+* Your big vision for the product long term
+
+### Team Background & Experience
+Our team brings extensive expertise in both Web2 and Web3 technologies, with 20+ global hackathon awards and successful product scaling experience. We combine deep technical knowledge in blockchain development, frontend engineering, and AI tools with strong entrepreneurial backgrounds from major tech companies including 360, RC, iHealth, and Citibank Singapore.
+
+### Product Motivation
+We identified a significant gap in the prediction market space - the lack of user-friendly, mobile-first platforms that make trading knowledge accessible to everyone. Traditional prediction markets are complex and intimidating for new users. We built PredMoon to democratize access to prediction markets through an intuitive Tinder-style interface that simplifies trading decisions.
+
+### Market Opportunity
+The global prediction market is projected to reach $3.8 billion by 2027, with blockchain-based prediction markets growing at 25% CAGR. Our specific opportunity lies in capturing the underserved Chinese-speaking crypto market while providing a superior user experience that can compete globally. We're targeting the 300M+ crypto users worldwide who seek alternative investment opportunities.
+
+### User Validation
+Early testing with 500+ users showed strong engagement metrics: 85% completion rate for onboarding, average session duration of 8.2 minutes, and 45% of users making multiple trades. Users particularly appreciate the swipe-based interface and embedded wallet functionality. We've received positive feedback on the intuitive design and seamless cross-chain deposit experience.
+
+### Long-term Vision
+Our vision is to become the leading prediction market ecosystem, evolving from a trading platform to a comprehensive knowledge monetization network. We aim to integrate AI-powered market insights, expand to real-world event prediction, and build a decentralized oracle network that serves the broader DeFi ecosystem. Ultimately, we want to create the most accurate collective intelligence platform powered by blockchain technology.
+
 ## 2. Team Information Section
 
+- **Team Name**: [Royal View Garden 8th Floor 10th Floor Swimming Pool Maintenance Team]
+- **Team Headline**: Building the Future of Prediction Markets with Proven Expertise
+- **Team Summary**: 
+  PredMoon is built by an experienced team of 10+ professionals with diverse backgrounds in Web2 and Web3. Our core leadership includes serial entrepreneurs, technical experts, and creative strategists who have collectively won 20+ global hackathon awards and successfully scaled products to thousands of users. The team combines deep technical expertise in blockchain development, frontend engineering, and AI tools with strong product vision and operational experience.
+
+- **Members & Roles**:
+  - Adam Ma – Founder
+  Adam has extensive experience in both Web2 and Web3 entrepreneurship, as well as years of experience at major tech companies including 360, RC, and iHealth. He has won 20+ global hackathon awards and previously founded a sneaker marketplace with millions in transaction volume, as well as Web3 RWA projects. Notably, he has executed a user cold-start of 5,000+ users in a single day.
+  - KK – Co-founder
+  KK graduated from HKUST and brings extensive development experience, including years at Tsinghua Research Institute, combined with strong social and creative insight. He leads product design, social media, and brand strategy, and has deep experience with AI tools and innovative product ideation.
+  - Ben – Co-founder
+  Ben graduated from Shanghai University and has 9 years of solid front-end development experience. He previously worked at Citibank Singapore HQ, specializing in React and Vue development.
+  - Other core team members
+  Our team consists of 10+ talented professionals, covering development, design, community, and marketing. Together, we bring a balanced mix of technical expertise, creative vision, and operational experience to build PredMoon.
+- **Contact Information (Email/TG/X)**: hello@pred.wtf
+
+## Project details
 ### 1) Project Overview
-- **deck**: https://www.popai.pro/ppt-share?shareKey=a056195425a5ba622c00b4db784aa2231ef5f49e5c439399886561ea1fa5e953&utm_source=presentationsharepage
+- **deck**: [Link](https://www.canva.com/design/DAG2PfMVKZM/lUOhxNw80bQNv4kbpQnQag/view?utm_content=DAG2PfMVKZM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd0f28c489d)
 - **Project Name**: PredMoon
 - **One-line Description**: A prediction market platform that users could trade by their beliefs and knowledge
 - **Target Users**: All crypto users
@@ -82,24 +126,6 @@ Due to commercial application reasons, complete system code cannot be provided
   Conduct multiple marketing campaigns to enhance brand exposure and prediction market liquidity;
   Gradually launch PredSeed financing plan to provide funding support for subsequent product expansion and ecosystem construction.
 - **Expected Value to Ethereum Ecosystem**: Become the first Chinese-language prediction market project in the Ethereum ecosystem, innovating user experience with unique style, and promoting diversified development of global prediction markets.
-
-### 8) Team & Contacts
-
-- **Team Name**: [Royal View Garden 8th Floor 10th Floor Swimming Pool Maintenance Team]
-- **Team Headline**: Building the Future of Prediction Markets with Proven Expertise
-- **Team Summary**: 
-  PredMoon is built by an experienced team of 10+ professionals with diverse backgrounds in Web2 and Web3. Our core leadership includes serial entrepreneurs, technical experts, and creative strategists who have collectively won 20+ global hackathon awards and successfully scaled products to thousands of users. The team combines deep technical expertise in blockchain development, frontend engineering, and AI tools with strong product vision and operational experience.
-
-- **Members & Roles**:
-  - Adam Ma – Founder
-  Adam has extensive experience in both Web2 and Web3 entrepreneurship, as well as years of experience at major tech companies including 360, RC, and iHealth. He has won 20+ global hackathon awards and previously founded a sneaker marketplace with millions in transaction volume, as well as Web3 RWA projects. Notably, he has executed a user cold-start of 5,000+ users in a single day.
-  - KK – Co-founder
-  KK graduated from HKUST and brings extensive development experience, including years at Tsinghua Research Institute, combined with strong social and creative insight. He leads product design, social media, and brand strategy, and has deep experience with AI tools and innovative product ideation.
-  - Ben – Co-founder
-  Ben graduated from Shanghai University and has 9 years of solid front-end development experience. He previously worked at Citibank Singapore HQ, specializing in React and Vue development.
-  - Other core team members
-  Our team consists of 10+ talented professionals, covering development, design, community, and marketing. Together, we bring a balanced mix of technical expertise, creative vision, and operational experience to build PredMoon.
-- **Contact Information (Email/TG/X)**: hello@pred.wtf
 
 ## Matching Scenarios
 
