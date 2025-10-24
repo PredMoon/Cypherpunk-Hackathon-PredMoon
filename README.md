@@ -1,4 +1,4 @@
-# [PredMoon] - Solar-SG-hackathon-2025
+# [PredMoon] - Cypherpunk Hackathon 2025
 
 ![screenshot-3](./assets/3.png)
 
