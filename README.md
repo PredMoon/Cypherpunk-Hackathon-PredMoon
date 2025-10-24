@@ -1,5 +1,6 @@
 # [Predmoon] - Solar-SG-hackathon-2025
 
+![screenshot-3](./assets/3.png)
 
 ## 1. Deliverables
 
@@ -64,9 +65,6 @@ pnpm --filter frontend dev
 ### 5) Demo & Key Flows
 
 - **Video Link (≤3 minutes, Chinese)**: https://youtu.be/RUZHgOvq8hk
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RUZHgOvq8hk?si=y6nxl2VZB7Bsxyvi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 - **Key Use Case Steps**:
   - Use Case 1: Login module with Privy (embedded wallet)
   - Use Case 2: Deposit through multi-chain
@@ -95,6 +93,9 @@ Due to commercial application reasons, complete system code cannot be provided
   Ben graduated from Shanghai University and has 9 years of solid front-end development experience. He previously worked at Citibank Singapore HQ, specializing in React and Vue development.
   - Other core team members
   Our team consists of 10+ talented professionals, covering development, design, community, and marketing. Together, we bring a balanced mix of technical expertise, creative vision, and operational experience to build PredMoon.
-- **Contact Information (Email/TG/X)**: b@pred.wtf
-- **Available Demo Times (Timezone)**: free
+- **Contact Information (Email/TG/X)**: hello@pred.wtf
 
+![screenshot-1](./assets/1.png)
+![screenshot-2](./assets/2.png)
+![screenshot-4](./assets/4.png)
+![screenshot-5](./assets/5.png)
