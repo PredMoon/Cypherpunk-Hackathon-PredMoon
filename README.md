@@ -9,7 +9,7 @@
 - [x] Online Demo Link
   - Onchain version: https://Pred.WTF
   - Offchain version: https://Pred.WTF/t-1 (replace t-1 to t-2,3...17)
-  - Pro version: https://pro.Pred.WTF
+  - Pro version(the same UI as PolyMarket): https://pro.Pred.WTF
 - [x] Contract Deployment Information
 
 ## 2. Team Information Section
