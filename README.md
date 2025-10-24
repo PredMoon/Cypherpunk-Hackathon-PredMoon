@@ -1,7 +1,5 @@
 # Cypherpunk Hackathon 2025
 
-## Slogan
-
 > Shaping the Global Prediction Market Ecosystem - From Infrastructure to Innovation
 
 ![screenshot-3](./assets/3.png)
@@ -17,7 +15,7 @@
   - Pro version(the same UI as PolyMarket): https://pro.Pred.WTF
 - [x] Contract Deployment Information
 
-## QA
+## 2. QA
 
 * Your team's background and relevant experience in the area you're building
 * Why you started building your product
@@ -40,7 +38,7 @@ Early testing with 500+ users showed strong engagement metrics: 85% completion r
 ### Long-term Vision
 Our vision is to become the leading prediction market ecosystem, evolving from a trading platform to a comprehensive knowledge monetization network. We aim to integrate AI-powered market insights, expand to real-world event prediction, and build a decentralized oracle network that serves the broader DeFi ecosystem. Ultimately, we want to create the most accurate collective intelligence platform powered by blockchain technology.
 
-## 2. Team Information Section
+## 3. Team Information Section
 
 - **Team Name**: [Royal View Garden 8th Floor 10th Floor Swimming Pool Maintenance Team]
 - **Team Headline**: Building the Future of Prediction Markets with Proven Expertise
@@ -58,7 +56,7 @@ Our vision is to become the leading prediction market ecosystem, evolving from a
   Our team consists of 10+ talented professionals, covering development, design, community, and marketing. Together, we bring a balanced mix of technical expertise, creative vision, and operational experience to build PredMoon.
 - **Contact Information (Email/TG/X)**: hello@pred.wtf
 
-## Project details
+## 4. Project details
 ### 1) Project Overview
 - **deck**: [Link](https://www.canva.com/design/DAG2PfMVKZM/lUOhxNw80bQNv4kbpQnQag/view?utm_content=DAG2PfMVKZM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd0f28c489d)
 - **Project Name**: PredMoon
@@ -84,7 +82,7 @@ Our vision is to become the leading prediction market ecosystem, evolving from a
   - Deployment: Vercel, AWS
 
 
-### 4) Run & Reproduce
+### 3) Run & Reproduce
 
 - **Prerequisites**: Node 18+, pnpm, Git
 - **Environment Variables Example**:
@@ -108,7 +106,7 @@ pnpm --filter frontend dev
 - **Online Demo**: [pred.wtf](https://pred.wtf)
 - **Account & Testing Instructions**: register by your own email
 
-### 5) Demo & Key Flows
+### 4) Demo & Key Flows
 
 - **Video Link (≤3 minutes, Chinese)**: https://youtu.be/RUZHgOvq8hk
 - **Key Use Case Steps**:
@@ -116,10 +114,10 @@ pnpm --filter frontend dev
   - Use Case 2: Deposit through multi-chain
   - Use Case 3: Trade module
 
-### 6) Verifiable Scope
+### 5) Verifiable Scope
 Due to commercial application reasons, complete system code cannot be provided
 
-### 7) Roadmap & Impact
+### 6) Roadmap & Impact
 
 - **1-3 Weeks Post-Competition**: Complete continuous optimization of pages and system performance, improve user experience and market stability.
 - **1-3 Months Post-Competition**: Drive user growth through cold-start operations and community incentive programs;
@@ -127,7 +125,7 @@ Due to commercial application reasons, complete system code cannot be provided
   Gradually launch PredSeed financing plan to provide funding support for subsequent product expansion and ecosystem construction.
 - **Expected Value to Ethereum Ecosystem**: Become the first Chinese-language prediction market project in the Ethereum ecosystem, innovating user experience with unique style, and promoting diversified development of global prediction markets.
 
-## Matching Scenarios
+## 5. Matching Scenarios
 
 ### Asset Definitions
 
@@ -232,9 +230,9 @@ Base fee rate (`baseFeeRate`) is written into order structure, corresponding to 
 - Buying 100 `A'` at $0.01:  
   0.01 * min(0.01, 0.99) * 100 = 0.01 (deduct 1 `A'` as fee)
 
-## Screenshots
+## 6. Screenshots
   ![screenshot-1](./assets/1.png)
   ![screenshot-2](./assets/2.png)
   ![screenshot-3](./assets/3.png)
-![screenshot-4](./assets/4.png)
-![screenshot-5](./assets/5.png)
+  ![screenshot-4](./assets/4.png)
+  ![screenshot-5](./assets/5.png)
