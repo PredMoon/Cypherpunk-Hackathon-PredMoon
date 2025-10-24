@@ -17,7 +17,7 @@
   - Pro version(the same UI as PolyMarket): https://pro.Pred.WTF
 - [x] Contract Deployment Information
 
-## Pitch Video: 
+## QA
 
 * Your team's background and relevant experience in the area you're building
 * Why you started building your product
