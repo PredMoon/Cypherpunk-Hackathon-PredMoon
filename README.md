@@ -86,6 +86,10 @@ Due to commercial application reasons, complete system code cannot be provided
 ### 8) Team & Contacts
 
 - **Team Name**: [Royal View Garden 8th Floor 10th Floor Swimming Pool Maintenance Team]
+- **Team Headline**: Building the Future of Prediction Markets with Proven Expertise
+- **Team Summary**: 
+  PredMoon is built by an experienced team of 10+ professionals with diverse backgrounds in Web2 and Web3. Our core leadership includes serial entrepreneurs, technical experts, and creative strategists who have collectively won 20+ global hackathon awards and successfully scaled products to thousands of users. The team combines deep technical expertise in blockchain development, frontend engineering, and AI tools with strong product vision and operational experience.
+
 - **Members & Roles**:
   - Adam Ma – Founder
   Adam has extensive experience in both Web2 and Web3 entrepreneurship, as well as years of experience at major tech companies including 360, RC, and iHealth. He has won 20+ global hackathon awards and previously founded a sneaker marketplace with millions in transaction volume, as well as Web3 RWA projects. Notably, he has executed a user cold-start of 5,000+ users in a single day.
